@@ -1,8 +1,8 @@
 # Prompt-Engineering-Collections-and-Resources
 
 **Table of Contents:**
-- [Introduction](#introduction)
-- [Features](#features)
+- [Introduction](#1.-Introduction)
+- [Features](#2.-Features)
   - [create and submit new prompts or learning resource](#create-and-submit-new-prompts-or-learning-resource)
   - [Like or Dislike each prompts or Learning resource](#like-or-dislike-each-prompts-or-learning-resource)
   - [Copy each prompt](#copy-each-prompt)
