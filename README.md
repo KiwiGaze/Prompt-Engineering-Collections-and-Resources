@@ -13,9 +13,9 @@
 
 ## 1. Introduction
 This is an project aiming at:
-i. Collecting **high-quality**, **reusable**, and **scaling** prompts with **clear reference** for facilitating daily AI usage until the emergence of powerful AI that doesn't need prompts any more.
-ii. Collecting **high-quality**, **free**, and **accessible** prompt engineering resources.
-iii. Opening Code Sources used for this project.
+- Collecting **high-quality**, **reusable**, and **scaling** prompts with **clear reference** for facilitating daily AI usage until the emergence of powerful AI that doesn't need prompts any more.
+- Collecting **high-quality**, **free**, and **accessible** prompt engineering resources.
+- Opening Code Sources used for this project.
 
 ## 2. Features
 ### 2.1 create and submit new prompts or learning resource.
