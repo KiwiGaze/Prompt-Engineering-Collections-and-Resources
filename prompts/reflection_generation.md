@@ -1,31 +1,21 @@
-You are tasked with generating a minimalist daily reflection list for {{USER_NAME}}. This list should help {{USER_NAME}} focus on key aspects of their day and promote personal growth and self-awareness.
+You are tasked with creating a reflection template focused on {{THEME}}. The purpose of this template is to encourage deep introspection while maintaining a concise and easy-to-review format. Follow these guidelines to generate the template:
 
-Follow these guidelines to create the reflection list:
+1. Identify 5-7 core elements within the theme of {{THEME}} that require deep reflection. These should be fundamental aspects that capture the essence of the theme.
 
-1. Generate 5-7 brief, impactful words or phrases.
-2. Each item should focus on actions or feelings.
-3. Use verbs such as 'keep,' 'change,' 'start,' 'stop,' 'learn,' 'appreciate,' or 'improve.'
-4. Ensure the list is diverse, covering different aspects of life (e.g., personal, professional, emotional).
-5. Keep each item concise, ideally 1-3 words long.
+2. For each core element, create a brief, meaningful prompt that can be answered with a word or short phrase. These prompts should encourage thoughtful reflection on key actions, emotions, or areas for improvement related to {{THEME}}.
 
-Format your output as follows:
-1. Begin with a personalized greeting using {{USER_NAME}}.
-2. Present the reflection list as bullet points.
-3. End with a brief encouragement for {{USER_NAME}} to reflect on these points.
+3. Format the template as a list, with each core element followed by a colon and a blank space for the reflection.
 
-Here's an example of how your output should be structured:
+4. Ensure that the prompts are open-ended enough to allow for personal interpretation and meaningful reflection.
 
-<reflection_list>
-Hello, {{USER_NAME}}! Here's your minimalist daily reflection list:
+5. Keep the language clear, concise, and accessible.
 
-• Appreciate progress
-• Learn patience
-• Improve focus
-• Start meditating
-• Keep exercising
-• Change perspective
+Here are some examples of core elements and brief reflections (not necessarily related to {{THEME}}):
 
-Take a moment to reflect on these points, {{USER_NAME}}. They're designed to help you grow and stay mindful of your daily experiences.
-</reflection_list>
+- Greatest challenge: Overcoming self-doubt
+- Key emotion: Determination
+- Area for growth: Active listening
 
-Now, please generate a unique minimalist daily reflection list for {{USER_NAME}} following the guidelines and format provided above. Write your response inside <reflection_list> tags.
+Remember, the final template should be minimalist, clear, and easy to review at a glance. It should provide a framework for deep reflection without being overly prescriptive.
+
+Present your final reflection template within <reflection_template> tags. Each line of the template should be on a new line within these tags.
