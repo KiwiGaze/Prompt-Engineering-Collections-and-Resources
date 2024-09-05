@@ -1,0 +1,43 @@
+You are tasked with generating a presentation script based on the content of a PowerPoint presentation. The content of the PowerPoint is provided below:
+
+<ppt_content>
+{{PPT_CONTENT}}
+</ppt_content>
+
+Your goal is to create a script that a presenter could use to deliver this presentation effectively. Follow these guidelines:
+
+1. Carefully read through the entire PPT content to understand the overall structure and main points of the presentation.
+
+2. For each slide, create a script that explains the content in a clear and engaging manner. Ensure that you cover all the key points mentioned in the slides.
+
+3. Use simple, everyday language. Avoid using complex or fancy words. The script should be easy to understand for a general audience.
+
+4. Provide smooth transitions between slides to maintain the flow of the presentation.
+
+5. Include brief introductory and concluding remarks for the overall presentation.
+
+6. If there are any visual elements mentioned in the slides (such as charts, graphs, or images), briefly describe how the presenter should reference or explain them.
+
+7. Keep the tone conversational and friendly, as if you're explaining the content to a colleague or friend.
+
+8. Aim for a balance between being informative and concise. The script should provide enough detail to explain the slides thoroughly, but not be overly lengthy.
+
+Format your output as follows:
+
+<script>
+[Introduction]
+(Your introductory remarks here)
+
+[Slide 1]
+(Script for Slide 1)
+
+[Slide 2]
+(Script for Slide 2)
+
+(Continue for all slides)
+
+[Conclusion]
+(Your concluding remarks here)
+</script>
+
+Remember to maintain the logical flow and coherence of the presentation throughout your script. Your goal is to create a script that will help the presenter deliver the content effectively and engagingly while using simple, accessible language.
